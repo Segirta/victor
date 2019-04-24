@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF =8"?>
+<rss version="2.0">
+	<channel>
+		<title>El canal RSS</title>
+		<link>https://segirta.github.io/Pac_web/</link>
+		<description>Noticias de actualidad</description>
+		<item>
+			<title>Noticias de la Ser</title>
+			<link>https://cadenaser.com/</link>
+			<description>Noticias de la Ser</description>
+		</item>
+
+		<item>
+			<title>Noticias de la Cope</title>
+			<link>https://www.cope.es/</link>
+			<description>Noticias de la Cope</description>
+		</item>
+
+		<item>
+			<title>Noticias de Marca</title>
+			<link>https://www.marca.com/</link>
+			<description>Noticias de Marca</description>
+		</item>
+
+		<item>
+			<title>Noticias de As</title>
+			<link>https://as.com/</link>
+			<description>Noticias de As</description>
+		</item>
+
+		<item>
+			<title>Noticias del Mundo Today</title>
+			<link>https://www.elmundotoday.com/</link>
+			<description>Noticias del Mundo Today</description>
+		</item>
+	</channel>
+</rss>
